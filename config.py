@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH", "")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@Souradip_Kundu")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "TG1_MUSIC_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 # ---------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC",
+    "",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,10 +67,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABY09_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+OL6jdTL7JAJjYzVl")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/BABYXMUSIC")
-CHAT = getenv("CHAT", "https://t.me/chattinghuboo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+0EGLGYfmbUQ3M2I1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+0EGLGYfmbUQ3M2I1")
+SOURCE = getenv("SOURCE", "https://files.catbox.moe/aj1eql.jpg")
+CHAT = getenv("CHAT", "https://t.me/+0EGLGYfmbUQ3M2I1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
